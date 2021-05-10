@@ -1,0 +1,23 @@
+header {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(185, 20, 20);
+    color: white;
+}
+
+
+.card-title {
+    color: white;
+}
+
+#card-container {
+    margin: 0;
+    padding-top: 50px;
+
+}
+
+.card-body {
+    background-color: rgb(54, 54, 248);
+}
